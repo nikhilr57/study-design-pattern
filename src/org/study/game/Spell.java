@@ -1,13 +1,13 @@
 package org.study.game;
 
 public class Spell {
-	public Spell() {
+  public Spell() {
 
-	}
+  }
 
-	@Override
-	public String toString() {
-		return "Spell []";
-	}
+  @Override
+  public String toString() {
+    return "Spell []";
+  }
 
 }
