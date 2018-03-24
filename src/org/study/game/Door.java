@@ -1,4 +1,4 @@
-package org.study;
+package org.study.game;
 
 public class Door implements MapSite {
 

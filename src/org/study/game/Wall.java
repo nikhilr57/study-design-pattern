@@ -1,4 +1,4 @@
-package org.study;
+package org.study.game;
 
 public class Wall implements MapSite {
 
@@ -9,6 +9,11 @@ public class Wall implements MapSite {
 	@Override
 	public void enter() {
 		// TODO Auto-generated method stub
+	}
+
+	@Override
+	public String toString() {
+		return "Wall []";
 	}
 
 }

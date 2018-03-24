@@ -1,5 +1,7 @@
 package org.study;
 
+import org.study.game.Room;
+
 public class Maze {
 
 	public Maze() {
