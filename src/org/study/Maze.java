@@ -4,15 +4,15 @@ import org.study.game.Room;
 
 public class Maze {
 
-	public Maze() {
+  public Maze() {
 
-	}
+  }
 
-	public void addRoom(Room room) {
+  public void addRoom(Room room) {
 
-	}
+  }
 
-	public Room roomNumber(int roomNumber) {
-		return null;
-	}
+  public Room roomNumber(int roomNumber) {
+    return null;
+  }
 }
